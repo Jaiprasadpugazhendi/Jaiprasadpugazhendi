@@ -32,18 +32,6 @@
 
 # 🛰 **PROJECTS FROM THE UNDERGROUND NETWORK**
 
-OR it will break.
-
-So here’s a **GitHub-safe cyberpunk ASCII header** wrapped correctly:
-
-```md
-```txt
-██████╗ ██╗   ██╗██████╗ ██████╗  █████╗ ███╗   ███╗██████╗ ██╗   ██╗███╗   ██╗███████╗
-██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗████╗ ████║██╔══██╗██║   ██║████╗  ██║██╔════╝
-██████╔╝██║   ██║██████╔╝██████╔╝███████║██╔████╔██║██████╔╝██║   ██║██╔██╗ ██║█████╗  
-██╔═══╝ ██║   ██║██╔══██╗██╔══██╗██╔══██║██║╚██╔╝██║██╔══██╗██║   ██║██║╚██╗██║██╔══╝  
-██║     ╚██████╔╝██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██████╔╝╚██████╔╝██║ ╚████║███████╗
-╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝
 
 
 
@@ -73,8 +61,8 @@ So here’s a **GitHub-safe cyberpunk ASCII header** wrapped correctly:
 
 # 📊 **GITHUB ANALYTICS — NIGHT CITY MODE**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiprasadp&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiprasadp&theme=tokyonight&background=000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaiprasadpugazhendi&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaiprasadpugazhendi&theme=tokyonight&background=000000&hide_border=true" />
 </div>
 
 ---
