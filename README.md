@@ -4,6 +4,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2500&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%7C+Security-Aware+Systems;SQL+%7C+APIs+%7C+Scalable+Design;Focused+on+Production-Ready+Code" />
 
+<p>
+  <a href="https://www.linkedin.com/in/jaiprasadp/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+</p>
+
 </div>
 
 ---
@@ -14,16 +20,16 @@ I am a **full-stack developer** with a strong focus on **backend systems, access
 I build applications with **clear boundaries, structured APIs, and production-ready discipline**.
 
 I prioritize:
-- Clean architecture
-- Secure authentication & authorization
-- SQL correctness
-- Deployable systems over demo-only projects
+- Clean architecture  
+- Secure authentication & authorization  
+- SQL correctness  
+- Deployable systems over demo-only projects  
 
 ---
 
 ## 🧠 Core Technical Stack
 
-### **Languages**
+### Languages
 <p>
   <img src="https://img.icons8.com/color/48/python.png"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
@@ -31,7 +37,7 @@ I prioritize:
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
 </p>
 
-### **Frontend**
+### Frontend
 <p>
   <img src="https://img.icons8.com/color/48/html-5.png"/>
   <img src="https://img.icons8.com/color/48/css3.png"/>
@@ -40,7 +46,7 @@ I prioritize:
   <img src="https://img.icons8.com/color/48/bootstrap.png"/>
 </p>
 
-### **Backend & Databases**
+### Backend & Databases
 <p>
   <img src="https://img.icons8.com/color/48/nodejs.png"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
@@ -48,7 +54,7 @@ I prioritize:
   <img src="https://img.icons8.com/color/48/google-firebase-console.png"/>
 </p>
 
-### **ML / Data**
+### ML / Data
 <p>
   <img src="https://img.icons8.com/color/48/tensorflow.png"/>
 </p>
@@ -56,7 +62,6 @@ I prioritize:
 ---
 
 ## 🛠 Developer Tools
-
 <p>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/pycharm.png"/>
@@ -69,35 +74,39 @@ I prioritize:
 
 ## 🚀 Selected Projects
 
-### **Face Recognition System**
+### 🔐 Face Recognition System  
 **Tech:** Python · OpenCV · Flask · ML  
-- Real-time face detection and recognition pipeline  
+🔗 Repo: https://github.com/Jaiprasadpugazhendi/Face-Recognition  
+- Real-time face detection and recognition  
 - Secure identity verification workflow  
-- Modular architecture with API-based inference  
+- API-based modular design  
 
 ---
 
-### **E-Commerce Web Application**
+### 🛒 E-Commerce Web Application  
 **Tech:** React · JavaScript  
+🔗 Repo: https://github.com/Jaiprasadpugazhendi/Electronic_shop  
 - Component-driven UI  
 - Cart and product state management  
 - Clean separation of UI and logic  
 
 ---
 
-### **Data Analysis & Visualization Engine**
+### 📊 Data Analysis & Visualization Engine  
 **Tech:** Pandas · NumPy · Matplotlib  
+🔗 Repo: https://github.com/Jaiprasadpugazhendi  
 - Structured data preprocessing  
-- Statistical analysis with visual insights  
-- Focus on clarity and correctness  
+- Statistical insights with visualizations  
+- Accuracy-focused analysis  
 
 ---
 
-### **Automated Marksheet & PDF Generator**
+### 🧾 Automated Marksheet & PDF Generator  
 **Tech:** Python · SQL  
+🔗 Repo: https://github.com/Jaiprasadpugazhendi  
 - Rule-based evaluation engine  
-- Dynamic PDF generation  
-- Data validation and accuracy checks  
+- Automated PDF generation  
+- Eliminates manual calculation errors  
 
 ---
 
@@ -105,7 +114,7 @@ I prioritize:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaiprasadpugazhendi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaiprasadpugazhendi&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Jaiprasadpugazhendi&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
