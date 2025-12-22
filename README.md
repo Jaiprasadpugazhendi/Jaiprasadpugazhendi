@@ -1,72 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff00ea,100:00eaff&text=JAIPRASAD%20//%20NEON%20GRID&fontAlignY=35&fontSize=45&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff00ea,100:00eaff&text=JAIPRASAD%20—%20FULL%20STACK%20DEVELOPER&fontAlignY=35&fontSize=40&fontColor=ffffff" />
 
-### 🔻 Initializing Cyber-Core...
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=2500&color=00E5FF&center=true&vCenter=true&width=700&lines=Booting+Neon+Identity...;Establishing+Holo-Link...;Loading+Full+Stack+Modules...;ML+%2B+AI+Systems+Online;Welcome+To+The+Cyber+Grid" />
-
----
-
-</div>
-
-## 🧬 **NEON TECH ARSENAL // v2.0**
-<div>
-  
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2500&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%7C+Security-Aware+Systems;SQL+%7C+APIs+%7C+Scalable+Design;Focused+on+Production-Ready+Code" />
 
 </div>
 
 ---
 
-## 🛠 **SYSTEM UTILITIES // CYBER OPS**
-<div>
-  <img height="45" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/pycharm.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/git.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/figma.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/notion.png"/>
-</div>
+## 👋 About Me
+
+I am a **full-stack developer** with a strong focus on **backend systems, access control, and data integrity**.  
+I build applications with **clear boundaries, structured APIs, and production-ready discipline**.
+
+I prioritize:
+- Clean architecture
+- Secure authentication & authorization
+- SQL correctness
+- Deployable systems over demo-only projects
 
 ---
 
-# 🛰 **PROJECTS FROM THE UNDERGROUND NETWORK**
+## 🧠 Core Technical Stack
 
+### **Languages**
+<p>
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+</p>
 
+### **Frontend**
+<p>
+  <img src="https://img.icons8.com/color/48/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png"/>
+</p>
 
+### **Backend & Databases**
+<p>
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/google-firebase-console.png"/>
+</p>
 
-### 🔮 **FACE-RECO AI (LEVEL: GHOST PROTOCOL)**  
-> Predictive recommendations powered by real-time biometric scans.  
-**Tech:** Python · OpenCV · ML · Flask
+### **ML / Data**
+<p>
+  <img src="https://img.icons8.com/color/48/tensorflow.png"/>
+</p>
 
 ---
 
-### 🛒 **CYBERMART vX — HOLOGRAPHIC E-COM GRID**  
-> Neon storefront system with adaptive cart intelligence.  
-**Tech:** React · JavaScript
+## 🛠 Developer Tools
+
+<p>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/pycharm.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+  <img src="https://img.icons8.com/color/48/figma.png"/>
+  <img src="https://img.icons8.com/color/48/notion.png"/>
+</p>
 
 ---
 
-### 📊 **VAX-SCAN // DATA DECRYPTION ENGINE**  
-> High-density pattern analysis on pandemic data streams.  
-**Tech:** Pandas · NumPy · Matplotlib
+## 🚀 Selected Projects
+
+### **Face Recognition System**
+**Tech:** Python · OpenCV · Flask · ML  
+- Real-time face detection and recognition pipeline  
+- Secure identity verification workflow  
+- Modular architecture with API-based inference  
 
 ---
 
-### 🧾 **AUTOGRADER BOT — PDF FABRICATOR**  
-> Autonomous grading + instant PDF marksheet deployment.  
-**Tech:** Python · SQL
+### **E-Commerce Web Application**
+**Tech:** React · JavaScript  
+- Component-driven UI  
+- Cart and product state management  
+- Clean separation of UI and logic  
 
 ---
 
-# 📊 **GITHUB ANALYTICS — NIGHT CITY MODE**
+### **Data Analysis & Visualization Engine**
+**Tech:** Pandas · NumPy · Matplotlib  
+- Structured data preprocessing  
+- Statistical analysis with visual insights  
+- Focus on clarity and correctness  
+
+---
+
+### **Automated Marksheet & PDF Generator**
+**Tech:** Python · SQL  
+- Rule-based evaluation engine  
+- Dynamic PDF generation  
+- Data validation and accuracy checks  
+
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaiprasadpugazhendi&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaiprasadpugazhendi&theme=tokyonight&background=000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaiprasadpugazhendi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaiprasadpugazhendi&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00eaff,100:ff00ea&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00eaff,100:ff00ea&section=footer" />
 </div>
