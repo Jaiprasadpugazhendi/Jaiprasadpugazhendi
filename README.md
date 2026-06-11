@@ -1,124 +1,216 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff00ea,100:00eaff&text=JAIPRASAD%20—%20FULL%20STACK%20DEVELOPER&fontAlignY=35&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff00ea,100:00eaff&text=JAIPRASAD%20PUGAZHENDI&fontAlignY=40&fontSize=45&fontColor=ffffff&desc=FULL-STACK%20DEVELOPER%20|%20BACKEND%20ENGINEER&descAlignY=60" alt="Jaiprasad Banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2500&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%7C+Security-Aware+Systems;SQL+%7C+APIs+%7C+Scalable+Design;Focused+on+Production-Ready+Code" />
+<br>
 
-<p>
-  <a href="https://www.linkedin.com/in/jaiprasadp/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2500&color=00E5FF&center=true&vCenter=true&width=800&lines=Ship+Deployable+Systems,+Not+Demos.;Full-Stack+Developer.;Backend+%7C+Authentication+%7C+Access+Control.;Building+Production-Ready+Applications." alt="Typing Animation"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Jaiprasadpugazhendi&style=for-the-badge&color=00eaff" alt="Profile Views"/>
+
+<a href="https://www.linkedin.com/in/jaiprasadp/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:sclaw9008@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://github.com/Jaiprasadpugazhendi">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+# 👨‍💻 About Me
 
-I am a **full-stack developer** with a strong focus on **backend systems, access control, and data integrity**.  
-I build applications with **clear boundaries, structured APIs, and production-ready discipline**.
+I am a Full-Stack Developer focused on building secure, scalable, and production-ready applications.
 
-I prioritize:
-- Clean architecture  
-- Secure authentication & authorization  
-- SQL correctness  
-- Deployable systems over demo-only projects  
+My primary interests include:
+
+* Backend Engineering
+* Authentication & Access Control
+* API Development
+* Database Design
+* Machine Learning Applications
+* Software Architecture
+
+> **"Ship deployable systems, not demos."**
+
+```yaml
+name: Jaiprasad Pugazhendi
+role: Full-Stack Developer
+
+focus:
+  - Backend Engineering
+  - Authentication & Authorization
+  - API Development
+  - Database Systems
+  - Machine Learning
+
+currently_learning:
+  - System Design
+  - Cloud Technologies
+  - AI Engineering
+
+open_to:
+  - Full-Time Opportunities
+  - Freelance Projects
+  - Open Source Collaboration
+```
 
 ---
 
-## 🧠 Core Technical Stack
+# 🚀 Tech Stack
 
-### Languages
+### Programming Languages
+
 <p>
-  <img src="https://img.icons8.com/color/48/python.png"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" alt="Languages"/>
 </p>
 
-### Frontend
+### Frontend Development
+
 <p>
-  <img src="https://img.icons8.com/color/48/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/css3.png"/>
-  <img src="https://img.icons8.com/color/48/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend"/>
 </p>
 
 ### Backend & Databases
+
 <p>
-  <img src="https://img.icons8.com/color/48/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/google-firebase-console.png"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" alt="Backend and Databases"/>
 </p>
 
-### ML / Data
-<p>
-  <img src="https://img.icons8.com/color/48/tensorflow.png"/>
-</p>
+### AI / ML & Tools
 
----
-
-## 🛠 Developer Tools
 <p>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/pycharm.png"/>
-  <img src="https://img.icons8.com/color/48/git.png"/>
-  <img src="https://img.icons8.com/color/48/figma.png"/>
-  <img src="https://img.icons8.com/color/48/notion.png"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,git,vscode,figma,postman" alt="Tools"/>
 </p>
 
 ---
 
-## 🚀 Selected Projects
-
-### 🔐 Face Recognition System  
-**Tech:** Python · OpenCV · Flask · ML  
-🔗 Repo: https://github.com/Jaiprasadpugazhendi/Face-Recognition  
-- Real-time face detection and recognition  
-- Secure identity verification workflow  
-- API-based modular design  
-
----
-
-### 🛒 E-Commerce Web Application  
-**Tech:** React · JavaScript  
-🔗 Repo: https://github.com/Jaiprasadpugazhendi/Electronic_shop  
-- Component-driven UI  
-- Cart and product state management  
-- Clean separation of UI and logic  
-
----
-
-### 📊 Data Analysis & Visualization Engine  
-**Tech:** Pandas · NumPy · Matplotlib  
-🔗 Repo: https://github.com/Jaiprasadpugazhendi  
-- Structured data preprocessing  
-- Statistical insights with visualizations  
-- Accuracy-focused analysis  
-
----
-
-### 🧾 Automated Marksheet & PDF Generator  
-**Tech:** Python · SQL  
-🔗 Repo: https://github.com/Jaiprasadpugazhendi  
-- Rule-based evaluation engine  
-- Automated PDF generation  
-- Eliminates manual calculation errors  
-
----
-
-## 📊 GitHub Activity
+# 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaiprasadpugazhendi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=Jaiprasadpugazhendi&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaiprasadpugazhendi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaiprasadpugazhendi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Jaiprasadpugazhendi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
 ---
 
+# 🏆 GitHub Trophies
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00eaff,100:ff00ea&section=footer" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jaiprasadpugazhendi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaiprasadpugazhendi&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00eaff&line=ff00ea&point=00eaff&area=true" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Jaiprasadpugazhendi/Jaiprasadpugazhendi/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔐 Face Recognition System
+
+**Tech Stack:** Python • OpenCV • Flask • Machine Learning
+
+* Real-time face recognition system
+* Identity verification workflow
+* Modular Flask architecture
+
+🔗 Repository:
+https://github.com/Jaiprasadpugazhendi/Face-Recognition
+
+---
+
+## 🛒 E-Commerce Web Application
+
+**Tech Stack:** React • JavaScript
+
+* Responsive UI
+* Product management
+* Cart functionality
+* Component-based architecture
+
+🔗 Repository:
+https://github.com/Jaiprasadpugazhendi/Electronic_shop
+
+---
+
+## 📊 Data Analysis & Visualization Engine
+
+**Tech Stack:** Pandas • NumPy • Matplotlib
+
+* Data preprocessing pipeline
+* Statistical analysis
+* Visualization dashboards
+* Insight generation
+
+---
+
+## 📄 Automated Marksheet & PDF Generator
+
+**Tech Stack:** Python • SQL
+
+* Automated result processing
+* PDF report generation
+* Database-driven calculations
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sclaw9008@gmail.com">
+<img src="https://img.shields.io/badge/Email-sclaw9008%40gmail.com-ff00ea?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jaiprasadp/">
+<img src="https://img.shields.io/badge/LinkedIn-Jaiprasad_Pugazhendi-00eaff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00eaff,100:ff00ea" alt="Footer"/>
+
 </div>
