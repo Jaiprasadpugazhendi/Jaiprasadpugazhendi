@@ -198,7 +198,7 @@ https://github.com/Jaiprasadpugazhendi/Electronic_shop
 <div align="center">
 
 <a href="mailto:sclaw9008@gmail.com">
-<img src="https://img.shields.io/badge/Email-sclaw9008%40gmail.com-ff00ea?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-mail2jaiprasadp%gmail.com-ff00ea?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jaiprasadp/">
