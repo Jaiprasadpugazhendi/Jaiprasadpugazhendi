@@ -10,7 +10,7 @@
 
 A small pixel garden for the software I build, the systems I learn, and the problems I solve.
 
-[GitHub](https://github.com/Jaiprasadpugazhendi) · [LinkedIn](https://www.linkedin.com/in/jaiprasadp/) · [Email](mailto:sclaw9008@gmail.com)
+[GitHub](https://github.com/Jaiprasadpugazhendi) · [LinkedIn](https://www.linkedin.com/in/jaiprasadp/) · Contact via LinkedIn
 
 ![Profile views](https://komarev.com/ghpvc/?username=Jaiprasadpugazhendi&style=flat-square&color=66bb6a)
 ![Followers](https://img.shields.io/github/followers/Jaiprasadpugazhendi?style=flat-square&color=557c6a&label=followers)
