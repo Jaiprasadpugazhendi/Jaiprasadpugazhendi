@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:17211d,100:557c6a&text=JAIPRASAD%20PUGAZHENDI&fontSize=38&fontColor=f7f6f1&fontAlignY=48" alt="Pixel garden banner"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=557C6A&center=true&vCenter=true&width=700&lines=%5B+FULL-STACK+DEVELOPER+%5D;%5B+BACKEND+%2F+AI+%2F+SYSTEMS+%5D;Ship+deployable+systems%2C+not+demos.;Building+one+pixel+at+a+time." alt="Animated pixel garden intro"/>
+
 ### `[ FULL-STACK DEVELOPER ]` · `[ BACKEND / AI / SYSTEMS ]`
 
 **Ship deployable systems, not demos.**
@@ -111,7 +113,7 @@ A pixel-garden view of contribution activity: each column rises from the work re
 
 <div align="center">
 
-<img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution skyline in green"/>
+<img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D GitHub contribution skyline in green"/>
 
 </div>
 
@@ -162,5 +164,7 @@ Have a project, opportunity, or open-source idea? Let's talk.
 [![Email](https://img.shields.io/badge/Email-Say_hello-66bb6a?style=flat-square&logo=gmail&logoColor=1a1c28)](mailto:sclaw9008@gmail.com)
 
 **`[ KEEP GROWING. KEEP SHIPPING. ]`**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:557c6a,100:17211d" width="100%" alt="Pixel garden animated-style footer"/>
 
 </div>
