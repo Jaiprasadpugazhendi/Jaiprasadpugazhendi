@@ -161,7 +161,7 @@ Have a project, opportunity, or open-source idea? Let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-557c6a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiprasadp/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-1a1c28?style=flat-square&logo=github&logoColor=white)](https://github.com/Jaiprasadpugazhendi)
-[![Email](https://img.shields.io/badge/Email-Say_hello-66bb6a?style=flat-square&logo=gmail&logoColor=1a1c28)](mailto:sclaw9008@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say_hello-66bb6a?style=flat-square&logo=gmail&logoColor=1a1c28)](mailto:mail2jaiprasadp@gmail.com)
 
 **`[ KEEP GROWING. KEEP SHIPPING. ]`**
 
