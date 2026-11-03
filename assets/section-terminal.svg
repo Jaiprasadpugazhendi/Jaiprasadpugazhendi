@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-labelledby="t d">
+<title id="t">10 TERMINAL</title><desc id="d">Section header: TERMINAL</desc>
+<style>
+text{font-family:Helvetica Neue, Helvetica, Arial, sans-serif} .m{font-family:SF Mono, Menlo, Consolas, monospace}
+.bar{transform-origin:0 0;animation:grow 1s ease-out forwards;transform:scaleX(0)} @keyframes grow{to{transform:scaleX(1)}}
+.t{opacity:0;animation:fi .8s .2s ease-out forwards} @keyframes fi{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="110" fill="#000000"/><g><path d="M0 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M60 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M120 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M180 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M240 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M300 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M360 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M420 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M480 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M540 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M600 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M660 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M720 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M780 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M840 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M900 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M960 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M1020 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M1080 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M1140 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M1200 0V110" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M0 0H1200" stroke="#F7F6F1" stroke-opacity="0.04"/><path d="M0 60H1200" stroke="#F7F6F1" stroke-opacity="0.04"/></g>
+<rect class="bar" x="0" y="12" width="1200" height="1" fill="#F7F6F1" fill-opacity=".18"/>
+<rect class="bar" x="0" y="11" width="64" height="3" fill="#91FF16"/>
+<text x="0" y="82" class="m" font-size="14" letter-spacing="3" fill="#91FF16">10</text>
+<text class="t" x="56" y="84" font-size="40" font-weight="800" letter-spacing="-1" fill="#F7F6F1">TERMINAL</text>
+<text x="1200" y="82" text-anchor="end" class="m" font-size="12" letter-spacing="2" fill="#777777">~ $</text>
+</svg>
